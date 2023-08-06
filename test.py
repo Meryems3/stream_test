@@ -1,6 +1,4 @@
-!pip install streamlit
-!pip install pandas
-!pip install numpy
+
 
 #Importation des librairies
 
